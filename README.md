@@ -1,3 +1,2 @@
-# Custom Data Mark Detection for YOLOv4
+# konfigurasi for convert yolov4 to tflite
 
-a
